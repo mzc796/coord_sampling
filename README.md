@@ -1,1 +1,1 @@
-# sync_sampling
+# coord_sampling
