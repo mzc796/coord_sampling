@@ -11,7 +11,7 @@ First of all, we need to coordinate the samplings for the flows to avoid samplin
 We utilize P4-programmable switches to coordinate samplings automatically and it is robust. 
 ```
             Monitor
-            |     \
+            /     \
 Host1--P4_SW_1--P4_SW_2--Host2
 ```
 In this simple scenario, the controller wants to sample every packet. 
