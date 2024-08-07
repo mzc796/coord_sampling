@@ -10,9 +10,9 @@ First of all, we need to coordinate the samplings for the flows to avoid samplin
 ## Key Technique and Intuition
 We utilize P4-programmable switches to coordinate samplings automatically and it is robust. 
 ```
-             Monitor
-              |   \
-Host1----P4_SW_1---P4_SW_2----Host2
+            Monitor
+            |     \
+Host1--P4_SW_1--P4_SW_2--Host2
 ```
 In this simple scenario, the controller wants to sample every packet. 
 Suppose both switches can sample and they work together to sample every packet. 
