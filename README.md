@@ -1,5 +1,15 @@
 # Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints
 
+## Getting Started
+
+To learn more about the P4-driven coordinated sampling work, please read:
+<object data="http://www.cs.ucr.edu/~trentj/papers/icccn24.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 ## Motivation
 Cyber-attacks develop and become stealthy, high-rate line-speed sampling is required to tackle evolved attacks. However, It is challenging to achieve this due to CPU and throughput bottlenecks on the switch.
 The existing sampling works mainly focus on optimizing the sampling profit within limited resources on a single switch. 
