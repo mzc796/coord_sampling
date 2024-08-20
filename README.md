@@ -3,9 +3,10 @@
 ## Getting Started
 
 To learn more about the P4-driven coordinated sampling work, please read:
+Chen, Mingming, Thomas La Porta, Trent Jaeger, and Srikanth Krishnamurthy. "Lightweight Coordinated Sampling for Dynamic Flows under Budget Constraints." In 2024 33rd international conference on computer communication and networks (ICCCN)
 <object data="http://www.cs.ucr.edu/~trentj/papers/icccn24.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p> <a href="http://www.cs.ucr.edu/~trentj/papers/icccn24.pdf">PDF</a>.</p>
     </embed>
 </object>
 
